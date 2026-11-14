@@ -1,8 +1,6 @@
 # Lab Activity 0A: Flutter Installation and Project Setup
-
+# Lab Activity 0B: Running Your First Flutter Application
 ## Laboratory Discussion
-
-# Part 3: Laboratory Discussion
 
 **1. What challenges did you encounter while installing or configuring Flutter?**
 
